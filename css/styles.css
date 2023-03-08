@@ -1,0 +1,59 @@
+
+body {
+	background: #C575D8;
+	font-family: arial;
+	color: #50185E;
+}
+
+a{
+	color: #50185E;
+}
+
+
+.top {
+	background: #DE82F4;
+}
+
+.menu {
+	display: flex;
+	justify-content: space-around;
+}
+
+.promocion {
+	text-align: center;
+display: flex;
+
+justify-content: space-around;
+
+flex-wrap: wrap;
+
+}
+
+.promocion img {
+
+width: 320px;
+
+
+}
+
+nav {
+	border-bottom: 5px solid #ffffff;
+}
+
+li {
+	list-style: none;
+}
+
+footer {
+	background: #000000;
+	font-size: 12px;
+	text-align: center;
+}
+
+
+
+form label {
+
+	display: block;
+	width: 100px;
+}
